@@ -26,7 +26,7 @@
 # 💻 Skills
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alejandromoc.alejandromoc&"  />
 </div>
 <br>
 
